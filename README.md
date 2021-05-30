@@ -58,15 +58,15 @@ $ [Other Information](#Other-Information)
 	➥ Bot Like Timeline
 	➥ Bot Like Target User
 	➥ Mass Delete Post/Photo
-	➥ F-L -> Followers Target [NEW]
-	➥ L-C -> Followers Target [NEW]
-	➥ F-L-C -> Followers Target
-	➥ F-L-C -> Followers Target [BETA]
-	➥ F-L-C -> Followers Target v2
-	➥ F-L-DM -> Followers Target
-	➥ F-L-DM -> Followers Target [BETA]
-	➥ F-L-C -> Hashtag Target
-	➥ F-L-C -> Location Target
+	➥ -> Followers Target [NEW]
+	➥ -> Followers Target [NEW]
+	➥ -> Followers Target
+	➥ -> Followers Target [BETA]
+	➥ -> Followers Target v2
+	➥ -> Followers Target
+	➥ -> Followers Target [BETA]
+	➥ -> Hashtag Target
+	➥ -> Location Target
 	➥ Unfollow All Following
 	➥ Unfollow Not Followback
 
@@ -81,14 +81,12 @@ $ [Other Information](#Other-Information)
 	☑ [19/04/2021] toolsig v3.2: added flonly.js & lconly.js (follow like & like comment)
 
 ## Attention
-	☑ This file was originally changed by officialputuid,
-		if you find this file but you get this file from another
-		source not from my Github, I am not responsible for anything
-		that happens. Thank you for being faithful to using toolsig.
+	☑ This file is created for educational purposes only. It is not meant for any illegal activities
+
 
 ## Other Information
-	☆ https://github.com/dilame/instagram-private-api
-	☆ Thank you for the help of all members SGB TEAM REBORN (https://www.sgb.or.id/)
+	☆ https://github.com/dbr1908/dbinsta
+	☆ Thank you.
 
 ## License
 	☑ This project is licensed under MIT License 2021. https://opensource.org/licenses/MIT
